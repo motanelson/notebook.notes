@@ -1,1 +1,1 @@
-https://colab.research.google.com/
+Hello word go language video
